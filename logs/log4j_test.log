@@ -1,0 +1,45 @@
+[INFO ] 2021-05-02 15:30:02.850 [main] PropertiesConfig - msg d'information
+[WARN ] 2021-05-02 15:30:02.856 [main] PropertiesConfig - msg d'avertissement
+[ERROR] 2021-05-02 15:30:02.857 [main] PropertiesConfig - msg d'erreur
+[FATAL] 2021-05-02 15:30:02.857 [main] PropertiesConfig - msg d'erreur fatale
+[INFO ] 2021-05-02 15:30:53.500 [main] Main - msg d'information
+[WARN ] 2021-05-02 15:30:53.504 [main] Main - msg d'avertissement
+[ERROR] 2021-05-02 15:30:53.504 [main] Main - msg d'erreur
+[FATAL] 2021-05-02 15:30:53.504 [main] Main - msg d'erreur fatale
+[ERROR] 2021-05-06 15:30:42.051 [main] Main - msg d'erreur
+[FATAL] 2021-05-06 15:30:42.054 [main] Main - msg d'erreur fatale
+[ERROR] 2021-05-06 15:31:53.822 [main] Main - msg d'erreur
+[FATAL] 2021-05-06 15:31:53.826 [main] Main - msg d'erreur fatale
+[INFO ] 2021-05-06 15:32:14.172 [main] Main - msg d'information
+[WARN ] 2021-05-06 15:32:14.175 [main] Main - msg d'avertissement
+[ERROR] 2021-05-06 15:32:14.175 [main] Main - msg d'erreur
+[FATAL] 2021-05-06 15:32:14.175 [main] Main - msg d'erreur fatale
+[ERROR] 2021-05-06 15:32:30.257 [main] Main - msg d'erreur
+[FATAL] 2021-05-06 15:32:30.261 [main] Main - msg d'erreur fatale
+[WARN ] 2021-05-06 15:34:12.214 [main] Main - msg d'avertissement
+[ERROR] 2021-05-06 15:34:12.220 [main] Main - msg d'erreur
+[FATAL] 2021-05-06 15:34:12.220 [main] Main - msg d'erreur fatale
+[INFO ] 2021-05-06 15:36:09.473 [main] Main - msg d'information
+[WARN ] 2021-05-06 15:36:09.478 [main] Main - msg d'avertissement
+[ERROR] 2021-05-06 15:36:09.478 [main] Main - msg d'erreur
+[FATAL] 2021-05-06 15:36:09.478 [main] Main - msg d'erreur fatale
+[INFO ] 2021-05-06 15:36:26.024 [main] Main - msg d'information
+[WARN ] 2021-05-06 15:36:26.027 [main] Main - msg d'avertissement
+[ERROR] 2021-05-06 15:36:26.027 [main] Main - msg d'erreur
+[FATAL] 2021-05-06 15:36:26.027 [main] Main - msg d'erreur fatale
+[WARN ] 2021-05-06 15:36:48.066 [main] Main - msg d'avertissement
+[ERROR] 2021-05-06 15:36:48.070 [main] Main - msg d'erreur
+[FATAL] 2021-05-06 15:36:48.070 [main] Main - msg d'erreur fatale
+[INFO ] 2021-05-06 15:37:17.853 [main] Main - msg d'information
+[WARN ] 2021-05-06 15:37:17.857 [main] Main - msg d'avertissement
+[ERROR] 2021-05-06 15:37:17.857 [main] Main - msg d'erreur
+[FATAL] 2021-05-06 15:37:17.857 [main] Main - msg d'erreur fatale
+[WARN ] 2021-05-06 15:37:29.580 [main] Main - msg d'avertissement
+[ERROR] 2021-05-06 15:37:29.584 [main] Main - msg d'erreur
+[FATAL] 2021-05-06 15:37:29.584 [main] Main - msg d'erreur fatale
+[WARN ] 2021-09-25 09:41:28.090 [main] Main - msg d'avertissement
+[ERROR] 2021-09-25 09:41:28.095 [main] Main - msg d'erreur
+[FATAL] 2021-09-25 09:41:28.095 [main] Main - msg d'erreur fatale
+[WARN ] 2022-03-05 13:31:39.049 [main] Main - msg d'avertissement
+[ERROR] 2022-03-05 13:31:39.058 [main] Main - msg d'erreur
+[FATAL] 2022-03-05 13:31:39.059 [main] Main - msg d'erreur fatale
